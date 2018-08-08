@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Local extends CI_Controller {
 
-	
+	//hola
 	public function index()
 	{
         $this->load->helper('url');
